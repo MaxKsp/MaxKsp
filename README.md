@@ -59,7 +59,7 @@ Fora do trabalho, construo o que eu mesmo uso — sem atalho, sem placeholder:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxKsp&show_icons=true&theme=tokyonight&hide_border=true" alt="Max's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxKsp&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Max's GitHub stats" />
 </p>
 
 <p align="center">

@@ -1,8 +1,8 @@
 <h1 align="center">Max Keller</h1>
-<h3 align="center">Engenheiro de Software · Automação de Fluxos & Integrações Críticas</h3>
+<h3 align="center">Engenheiro de Software · Automação de Fluxos, Desenvolvimento & IA Aplicada</h3>
 
 <p align="center">
-  Transformo processos manuais em fluxos automatizados de ponta a ponta, da leitura da documentação da API até o bot conversando certo com o cliente.
+  Construo software de ponta a ponta: da leitura de documentação de API até o bot conversando certo com o cliente, usando agentes de IA como parte do próprio processo de desenvolvimento.
 </p>
 
 <p align="center">
@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
@@ -21,12 +22,11 @@
 
 ### O que eu faço
 
-Projeto e mantenho fluxos de automação de atendimento (WhatsApp, Hyperflow, ezchatbot.ai) que ligam bot, API e banco de dados sem quebrar no meio do caminho.
-
 - Leio documentação técnica de terceiros e traduzo isso em integração funcional.
-- Aplico lógica de programação dentro do fluxo, não só conecto caixinhas prontas.
-- Integro com banco de dados de forma que o histórico do cliente sustente a conversa do bot.
-- No momento, estou redesenhando como o bot interpreta e responde em pontos do atendimento onde ele costuma errar.
+- Projeto e mantenho fluxos de automação de atendimento (WhatsApp, Hyperflow, ezchatbot.ai) que ligam bot, API e banco de dados sem quebrar no meio do caminho.
+- Desenvolvo software full-stack fora do escopo de automação: back-end em Java/Spring Boot, front-end em React/TypeScript, banco de dados relacional.
+- Uso agentes de IA (Claude Code) como parte do próprio fluxo de desenvolvimento, orquestrando implementação, documentação e revisão de código em produtos reais em produção, não só como ferramenta de estudo.
+- Organizo o conhecimento técnico acumulado num vault pessoal de IA, que uso como base de auditoria e referência antes de decisão de arquitetura.
 
 ### De onde eu vim
 
@@ -39,7 +39,7 @@ Formação em Engenharia da Computação (Pitágoras, conclusão dez/2026) e tri
 Fora do trabalho, construo o que eu mesmo uso, sem atalho:
 
 - **[level-os](https://github.com/MaxKsp/level-os)**: sistema operacional pessoal pra finanças, rotina, treinos, alimentação, progresso e agentes de IA. React 19, TypeScript, PHP 8 e MySQL.
-- **[Orby](https://github.com/MaxKsp/orby)**: PWA de produtividade e finanças pessoais, hospedagem compartilhada, autenticação 2FA e dashboard financeiro em Chart.js.
+- **Agenda Aê**: SaaS multi-tenant de agendamento pra barbearias e salões, com motor de automação de WhatsApp próprio (substituiu n8n) e agente de IA orquestrando parte do desenvolvimento. Next.js 16, React 19, TypeScript, MySQL. Repositório privado.
 - **[cycle-motors-erp](https://github.com/MaxKsp/cycle-motors-erp)**: ERP completo pra oficinas de motos, Java 21 + Spring Boot + React.
 
 ---
@@ -49,19 +49,13 @@ Fora do trabalho, construo o que eu mesmo uso, sem atalho:
 | Área | Ferramentas |
 |---|---|
 | Backend & Dados | Java (Spring Boot, APIs RESTful, Spring Data JPA), Python, PHP, SQL, MySQL |
+| Frontend | React, TypeScript, Next.js |
 | Automação & Integrações | n8n, Hyperflow, ezchatbot.ai, API WhatsApp |
+| IA aplicada | Agentes de IA no ciclo de desenvolvimento (Claude Code), organização de conhecimento técnico |
 | Infra & Redes | VLANs, DNS, IPv6, Active Directory, VPN, Docker |
 | Observabilidade | Zabbix, Elastic, Grafana, Datadog |
 | Engenharia de Software | Microsserviços, CI/CD, Scrum/XP, QA |
 | Governança de TI | COBIT 2019, gestão de projetos e mudanças |
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MaxKsp&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições do Max" />
-</p>
 
 ---
 

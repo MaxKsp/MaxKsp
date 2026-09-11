@@ -2,7 +2,7 @@
 <h3 align="center">Engenheiro de Software · Automação de Fluxos & Integrações Críticas</h3>
 
 <p align="center">
-  Transformo processos manuais em fluxos automatizados de ponta a ponta — da leitura da documentação da API até o bot conversando certo com o cliente.
+  Transformo processos manuais em fluxos automatizados de ponta a ponta, da leitura da documentação da API até o bot conversando certo com o cliente.
 </p>
 
 <p align="center">
@@ -19,52 +19,53 @@
 
 ---
 
-### ⚡ O que eu faço
+### O que eu faço
 
-Projeto e mantenho **fluxos de automação de atendimento** (WhatsApp, Hyperflow, ezchatbot.ai) que ligam bot, API e banco de dados sem quebrar no meio do caminho. Isso significa:
+Projeto e mantenho fluxos de automação de atendimento (WhatsApp, Hyperflow, ezchatbot.ai) que ligam bot, API e banco de dados sem quebrar no meio do caminho.
 
-- 🔌 **Ler documentação técnica de terceiros e traduzir em integração funcional** — sem isso, nenhuma automação sobrevive à produção.
-- 🧩 **Aplicar lógica de programação dentro do fluxo**, não só conectar caixinhas — é onde a maioria trava e eu resolvo.
-- 🗄️ **Integrar com banco de dados** de forma que o histórico do cliente realmente sustente a conversa do bot.
-- 🎯 Atualmente à frente de uma iniciativa de melhoria na **jornada do cliente**, redesenhando como o bot interpreta e responde em pontos críticos do atendimento.
+- Leio documentação técnica de terceiros e traduzo isso em integração funcional.
+- Aplico lógica de programação dentro do fluxo, não só conecto caixinhas prontas.
+- Integro com banco de dados de forma que o histórico do cliente sustente a conversa do bot.
+- No momento, estou redesenhando como o bot interpreta e responde em pontos do atendimento onde ele costuma errar.
 
-### 🎯 De onde eu vim
+### De onde eu vim
 
-Antes de fluxos e bots, passei por infraestrutura crítica de verdade: **NOC e Analista de Sistemas na Valecard**, monitorando sistemas em produção 24/7 (Zabbix, Elastic, Grafana, Datadog), gerenciando Active Directory e resolvendo incidentes antes que virassem problema pro cliente final. É essa mentalidade de "não pode cair" que carrego pra dentro de cada automação que construo hoje.
+Antes de fluxos e bots, passei por infraestrutura crítica de verdade: NOC e Analista de Sistemas na Valecard, monitorando sistemas em produção 24/7 (Zabbix, Elastic, Grafana, Datadog), gerenciando Active Directory e resolvendo incidentes antes que virassem problema pro cliente final. Carrego essa mentalidade de "não pode cair" pras automações que construo hoje.
 
-Formação em **Engenharia da Computação** (Pitágoras, conclusão Dez/2026) + trilha técnica completa pela Alura em Java, Spring Boot, Redes, Governança de TI (COBIT 2019), SQL e IA — 8 formações, mais de 1.800 atividades concluídas.
+Formação em Engenharia da Computação (Pitágoras, conclusão dez/2026) e trilha técnica completa pela Alura em Java, Spring Boot, Redes, Governança de TI (COBIT 2019), SQL e IA: 8 formações, mais de 1.800 atividades concluídas.
 
-### 🔬 Projetos pessoais
+### Projetos pessoais
 
-Fora do trabalho, construo o que eu mesmo uso — sem atalho, sem placeholder:
+Fora do trabalho, construo o que eu mesmo uso, sem atalho:
 
-- **[Orby](https://github.com/MaxKsp/orby)** — PWA de produtividade e finanças pessoais que rodo em hospedagem compartilhada, com autenticação 2FA e dashboard financeiro em Chart.js.
-- **[cycle-motors-erp](https://github.com/MaxKsp/cycle-motors-erp)** — ERP completo pra oficinas de motos, Java 21 + Spring Boot + React.
+- **[level-os](https://github.com/MaxKsp/level-os)**: sistema operacional pessoal pra finanças, rotina, treinos, alimentação, progresso e agentes de IA. React 19, TypeScript, PHP 8 e MySQL.
+- **[Orby](https://github.com/MaxKsp/orby)**: PWA de produtividade e finanças pessoais, hospedagem compartilhada, autenticação 2FA e dashboard financeiro em Chart.js.
+- **[cycle-motors-erp](https://github.com/MaxKsp/cycle-motors-erp)**: ERP completo pra oficinas de motos, Java 21 + Spring Boot + React.
 
 ---
 
-### 🧠 Stack técnica
+### Stack técnica
 
 | Área | Ferramentas |
 |---|---|
-| **Backend & Dados** | Java (Spring Boot, APIs RESTful, Spring Data JPA), Python, SQL |
-| **Automação & Integrações** | n8n, Hyperflow, ezchatbot.ai, API WhatsApp |
-| **Infra & Redes** | VLANs, DNS, IPv6, Active Directory, VPN, Docker |
-| **Observabilidade** | Zabbix, Elastic, Grafana, Datadog |
-| **Engenharia de Software** | Microsserviços, CI/CD, Scrum/XP, QA |
-| **Governança de TI** | COBIT 2019, gestão de projetos e mudanças |
+| Backend & Dados | Java (Spring Boot, APIs RESTful, Spring Data JPA), Python, PHP, SQL, MySQL |
+| Automação & Integrações | n8n, Hyperflow, ezchatbot.ai, API WhatsApp |
+| Infra & Redes | VLANs, DNS, IPv6, Active Directory, VPN, Docker |
+| Observabilidade | Zabbix, Elastic, Grafana, Datadog |
+| Engenharia de Software | Microsserviços, CI/CD, Scrum/XP, QA |
+| Governança de TI | COBIT 2019, gestão de projetos e mudanças |
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxKsp&theme=tokyonight&hide_border=true" alt="Max's Streak" />
+  <img src="https://streak-stats.demolab.com?user=MaxKsp&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições do Max" />
 </p>
 
 ---
 
-### 📫 Contato
+### Contato
 
 <p align="center">
   <a href="mailto:maxkiller209@gmail.com">

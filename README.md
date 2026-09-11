@@ -2,7 +2,7 @@
 <h3 align="center">Engenheiro de Software · Automação de Fluxos, Desenvolvimento & IA Aplicada</h3>
 
 <p align="center">
-  Construo software de ponta a ponta: da leitura de documentação de API até o bot conversando certo com o cliente, usando agentes de IA como parte do próprio processo de desenvolvimento.
+  Construo software de ponta a ponta: da leitura de documentação de API até o bot conversando certo com o cliente, com agentes de IA integrados no próprio fluxo de trabalho, não só como assistente pontual.
 </p>
 
 <p align="center">
@@ -25,8 +25,13 @@
 - Leio documentação técnica de terceiros e traduzo isso em integração funcional.
 - Projeto e mantenho fluxos de automação de atendimento (WhatsApp, Hyperflow, ezchatbot.ai) que ligam bot, API e banco de dados sem quebrar no meio do caminho.
 - Desenvolvo software full-stack fora do escopo de automação: back-end em Java/Spring Boot, front-end em React/TypeScript, banco de dados relacional.
-- Uso agentes de IA (Claude Code) como parte do próprio fluxo de desenvolvimento, orquestrando implementação, documentação e revisão de código em produtos reais em produção, não só como ferramenta de estudo.
-- Organizo o conhecimento técnico acumulado num vault pessoal de IA, que uso como base de auditoria e referência antes de decisão de arquitetura.
+- Uso Claude Code, Codex, Cursor e Kiro no dia a dia de desenvolvimento em produção, cada um no papel que faz mais sentido: planejamento e revisão de arquitetura, implementação de feature, refatoração, geração de UI.
+- Configurei e integrei servidores MCP em projeto próprio, além de consumir MCPs de terceiros (Postman, Figma, Context7, Playwright, shadcn, Google Calendar/Drive) no fluxo assistido de desenvolvimento.
+- Mantenho um vault pessoal de pesquisa em IA aplicada ao desenvolvimento: 189 fontes primárias catalogadas em 11 eixos (RAG, segurança, geração de código, testes, confiabilidade, agentes, dados, fatores humanos, requisitos, contexto, produtividade), com metodologia própria de revisão e nível de evidência por claim.
+
+### Como eu trabalho com IA em produto real
+
+No Agenda Aê, divido responsabilidade entre agentes por área do código, documentado e versionado: um agente é dono de back-end, schema e motor de automação; outro é dono de UI e design system. Cada mudança de escopo maior nasce como spec escrita antes do código, uma fase por PR, nunca merge sem revisão. Isso não é uso casual de assistente: é processo de time aplicado com agentes no lugar de parte do time.
 
 ### De onde eu vim
 
@@ -39,8 +44,9 @@ Formação em Engenharia da Computação (Pitágoras, conclusão dez/2026) e tri
 Fora do trabalho, construo o que eu mesmo uso, sem atalho:
 
 - **[level-os](https://github.com/MaxKsp/level-os)**: sistema operacional pessoal pra finanças, rotina, treinos, alimentação, progresso e agentes de IA. React 19, TypeScript, PHP 8 e MySQL.
-- **Agenda Aê**: SaaS multi-tenant de agendamento pra barbearias e salões, com motor de automação de WhatsApp próprio (substituiu n8n) e agente de IA orquestrando parte do desenvolvimento. Next.js 16, React 19, TypeScript, MySQL. Repositório privado.
-- **[cycle-motors-erp](https://github.com/MaxKsp/cycle-motors-erp)**: ERP completo pra oficinas de motos, Java 21 + Spring Boot + React.
+- **Agenda Aê**: SaaS multi-tenant de agendamento pra barbearias e salões. Motor de automação de WhatsApp próprio, com nós de fluxo (mensagem, pergunta, condicional, disponibilidade, reserva, confirmação, cancelamento) que substituiu a dependência de n8n. Worker próprio processando fila de mensagens, conexão WhatsApp via Evolution/Baileys, deploy em container Docker atrás de Traefik. Next.js 16, React 19, TypeScript, MySQL. Repositório privado.
+- **[cycle-motors-erp](https://github.com/MaxKsp/cycle-motors-erp)**: ERP completo pra oficinas de motos, com portal do cliente pra acompanhar ordem de serviço e aprovar orçamento. Java 21 + Spring Boot + React.
+- **Vault MCP**: servidor MCP próprio que expõe meu vault pessoal de conhecimento técnico (decisões, papers revisados, playbooks de projeto) como contexto consultável direto por Claude Code, Cursor, Codex e Kiro, sem navegação manual de arquivo. Implementa o protocolo de recuperação de contexto que já uso hoje (Grafo Operacional de Contexto).
 
 ---
 
@@ -50,8 +56,9 @@ Fora do trabalho, construo o que eu mesmo uso, sem atalho:
 |---|---|
 | Backend & Dados | Java (Spring Boot, APIs RESTful, Spring Data JPA), Python, PHP, SQL, MySQL |
 | Frontend | React, TypeScript, Next.js |
-| Automação & Integrações | n8n, Hyperflow, ezchatbot.ai, API WhatsApp |
-| IA aplicada | Agentes de IA no ciclo de desenvolvimento (Claude Code), organização de conhecimento técnico |
+| Automação & Integrações | n8n, Hyperflow, ezchatbot.ai, API WhatsApp (Evolution/Baileys) |
+| Ferramentas de IA | Claude Code, Codex, Cursor, Kiro |
+| MCP & IA aplicada | Configuração e integração de servidores MCP em projeto próprio; consumo de MCPs de terceiros (Postman, Figma, Context7, Playwright, shadcn); orquestração de agentes de IA no ciclo de desenvolvimento, com divisão de responsabilidade documentada por área do código; revisão sistemática de pesquisa em IA aplicada ao desenvolvimento |
 | Infra & Redes | VLANs, DNS, IPv6, Active Directory, VPN, Docker |
 | Observabilidade | Zabbix, Elastic, Grafana, Datadog |
 | Engenharia de Software | Microsserviços, CI/CD, Scrum/XP, QA |

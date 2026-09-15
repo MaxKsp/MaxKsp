@@ -62,7 +62,7 @@ Fora do trabalho, construo o que eu mesmo uso, sem atalho:
 | Infra & Redes | VLANs, DNS, IPv6, Active Directory, VPN, Docker |
 | Observabilidade | Zabbix, Elastic, Grafana, Datadog |
 | Engenharia de Software | Microsserviços, CI/CD, Scrum/XP, QA |
-| Governança de TI | COBIT 2019, gestão de projetos e mudanças |
+| Governança de TI | COBIT 2019, gestão de projetos e mudanças |   
 
 ---
 

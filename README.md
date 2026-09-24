@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/dark.svg?v=7">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/light.svg?v=7">
-  <img width="100%" alt="Max Keller â€” Engenheiro de Software" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/dark.svg?v=7">
+  <img width="100%" alt="Max Keller — Engenheiro de Software" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/dark.svg?v=7">
 </picture>
 
 <br/>
@@ -12,7 +12,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://maxkeller.tech">
-    <img src="https://img.shields.io/badge/PortfÃ³lio-140A24?style=for-the-badge&logo=googlechrome&logoColor=C084FC" alt="PortfÃ³lio">
+    <img src="https://img.shields.io/badge/Portfólio-140A24?style=for-the-badge&logo=googlechrome&logoColor=C084FC" alt="Portfólio">
   </a>
   &nbsp;&nbsp;
   <a href="mailto:maxkiller209@gmail.com">
@@ -22,30 +22,30 @@
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/contrib-graph.svg?v=1" alt="GrÃ¡fico de contribuiÃ§Ãµes â€” Max Keller">
+<img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/heatmap.svg?v=1" alt="Gráfico de contribuições — Max Keller">
 
 <div align="center">
-  <sub><strong>Set 2025 â†’ Set 2026</strong> Â· commits de todos os repositÃ³rios pÃºblicos e privados Â· privados habilitados na conta.</sub>
+  <sub><strong>Set 2025 → Set 2026</strong> · commits de todos os repositórios públicos e privados · passe o mouse sobre uma célula para ver o total.</sub>
 </div>
 
 ---
 
-## `01 / Perfil TÃ©cnico`
+## `Perfil Técnico`
 
-Atuo como **desenvolvedor Full-Stack com foco em SaaS, automaÃ§Ã£o, APIs e IA aplicada**. Construo desde interfaces modernas e sistemas web completos atÃ© integraÃ§Ãµes, agentes, RAG e automaÃ§Ãµes em produÃ§Ã£o. Como fundador do **AgendaÃª**, trabalho com produto multi-tenant, arquitetura, operaÃ§Ã£o e evoluÃ§Ã£o contÃ­nua â€” com a mentalidade de observabilidade e confiabilidade que veio da experiÃªncia em NOC 24/7.
+Atuo como **desenvolvedor Full-Stack com foco em SaaS, automação, APIs e IA aplicada**. Construo desde interfaces modernas e sistemas web completos até integrações, agentes, RAG e automações em produção. Como fundador do **Agendaê**, trabalho com produto multi-tenant, arquitetura, operação e evolução contínua — com a mentalidade de observabilidade e confiabilidade que veio da experiência em NOC 24/7.
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
 ### Engenharia de Software
-Back-end, front-end, APIs e arquitetura de aplicaÃ§Ãµes com foco em manutenÃ§Ã£o, clareza e evoluÃ§Ã£o de produto.
+Back-end, front-end, APIs e arquitetura de aplicações com foco em manutenção, clareza e evolução de produto.
 
 </td>
 <td width="33%" valign="top">
 
-### AutomaÃ§Ã£o & IntegraÃ§Ãµes
-Fluxos que conectam WhatsApp, APIs de terceiros, bancos de dados, filas, regras de negÃ³cio e serviÃ§os externos.
+### Automação & Integrações
+Fluxos que conectam WhatsApp, APIs de terceiros, bancos de dados, filas, regras de negócio e serviços externos.
 
 </td>
 <td width="33%" valign="top">
@@ -59,15 +59,15 @@ Agentes especializados, MCP, contexto versionado e IA integrada ao ciclo real de
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/role-map.svg?v=2" alt="Mapa animado de atuaÃ§Ã£o tÃ©cnica de Max Keller">
+<img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/role-map.svg?v=2" alt="Mapa animado de atuação técnica de Max Keller">
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/stack-animated.svg?v=5" alt="Ecossistema tÃ©cnico de Max Keller">
+<img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/stack-animated.svg?v=5" alt="Ecossistema técnico de Max Keller">
 
 ---
 
-## `02 / Projetos em Destaque`
+## `Projetos em Destaque`
 
 <img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/projects-animated.svg?v=4" alt="Projetos em destaque">
 
@@ -77,18 +77,18 @@ Agentes especializados, MCP, contexto versionado e IA integrada ao ciclo real de
 <br/>
 | Projeto | O que resolve | Stack |
 |---|---|---|
-| [level-os](https://github.com/MaxKsp/level-os) | Sistema pessoal para finanÃ§as, rotina, treinos, alimentaÃ§Ã£o, progresso e agentes de IA | React 19 Â· TypeScript Â· PHP 8 Â· MySQL |
-| AgendaÃª | SaaS multi-tenant de agendamento para barbearias, salÃµes e serviÃ§os, com motor prÃ³prio de automaÃ§Ã£o via WhatsApp | Next.js 16 Â· React 19 Â· TypeScript Â· MySQL Â· Docker |
-| [cycle-motors-erp](https://github.com/MaxKsp/cycle-motors-erp) | ERP para oficinas de motos com portal do cliente, ordem de serviÃ§o e aprovaÃ§Ã£o de orÃ§amento | Java 21 Â· Spring Boot Â· React |
-| Vault MCP | Servidor MCP prÃ³prio que expÃµe decisÃµes tÃ©cnicas, pesquisa e playbooks como contexto consultÃ¡vel por agentes | MCP Â· RAG Â· Context Engineering Â· Agent Tooling |
+| [level-os](https://github.com/MaxKsp/level-os) | Sistema pessoal para finanças, rotina, treinos, alimentação, progresso e agentes de IA | React 19 · TypeScript · PHP 8 · MySQL |
+| Agendaê | SaaS multi-tenant de agendamento para barbearias, salões e serviços, com motor próprio de automação via WhatsApp | Next.js 16 · React 19 · TypeScript · MySQL · Docker |
+| [cycle-motors-erp](https://github.com/MaxKsp/cycle-motors-erp) | ERP para oficinas de motos com portal do cliente, ordem de serviço e aprovação de orçamento | Java 21 · Spring Boot · React |
+| Vault MCP | Servidor MCP próprio que expõe decisões técnicas, pesquisa e playbooks como contexto consultável por agentes | MCP · RAG · Context Engineering · Agent Tooling |
 
 </details>
 
 ---
 
-## `03 / Engenharia com IA`
+## `Engenharia com IA`
 
-No **AgendaÃª**, a responsabilidade Ã© dividida por domÃ­nio: um agente atua em back-end, schema e motor de automaÃ§Ã£o; outro atua em UI e design system. MudanÃ§as maiores comeÃ§am como especificaÃ§Ã£o escrita, avanÃ§am em fases e passam por revisÃ£o antes do merge.
+No **Agendaê**, a responsabilidade é dividida por domínio: um agente atua em back-end, schema e motor de automação; outro atua em UI e design system. Mudanças maiores começam como especificação escrita, avançam em fases e passam por revisão antes do merge.
 
 <br/>
 
@@ -96,11 +96,11 @@ No **AgendaÃª**, a responsabilidade Ã© dividida por domÃ­nio: um agente at
 
 <br/>
 
-Mantenho um vault de pesquisa em IA aplicada ao desenvolvimento com **centenas de fontes primÃ¡rias distribuÃ­das em 11 eixos**, incluindo RAG, seguranÃ§a, geraÃ§Ã£o de cÃ³digo, testes, confiabilidade, agentes, dados, fatores humanos, requisitos, contexto e produtividade.
+Mantenho um vault de pesquisa em IA aplicada ao desenvolvimento com **centenas de fontes primárias distribuídas em 11 eixos**, incluindo RAG, segurança, geração de código, testes, confiabilidade, agentes, dados, fatores humanos, requisitos, contexto e produtividade.
 
 ---
 
-## `04 / Stack Principal`
+## `Stack Principal`
 
 <p>
   <img src="https://img.shields.io/badge/Java-140A24?style=flat-square&logo=openjdk&logoColor=C084FC">
@@ -122,33 +122,33 @@ Mantenho um vault de pesquisa em IA aplicada ao desenvolvimento com **centenas d
 </p>
 
 <details>
-<summary><strong>Ver stack tÃ©cnica completa</strong></summary>
+<summary><strong>Ver stack técnica completa</strong></summary>
 
 <br/>
 
-| Ãrea | Tecnologias / prÃ¡ticas |
+| Área | Tecnologias / práticas |
 |---|---|
 | Frontend & UX | Next.js 16, React 19, TypeScript, Tailwind CSS v4, Framer Motion, shadcn/ui, Radix UI, Canvas/WebGL, Core Web Vitals |
 | Backend & APIs | Node.js, Java, Spring Boot, PHP 8, Python, APIs REST, JWT, OAuth 2.0 |
 | Dados | MySQL, PostgreSQL, Redis, SQL, RAG + Qdrant |
-| IA aplicada | Claude API, OpenAI API, Vercel AI SDK, LangChain, MCP, agentes especializados, busca semÃ¢ntica |
-| AutomaÃ§Ã£o | n8n, WhatsApp Bot/API, Hyperflow, ezchatbot.ai, Evolution/Baileys |
+| IA aplicada | Claude API, OpenAI API, Vercel AI SDK, LangChain, MCP, agentes especializados, busca semântica |
+| Automação | n8n, WhatsApp Bot/API, Hyperflow, ezchatbot.ai, Evolution/Baileys |
 | Infra & Cloud | Docker, GitHub Actions, AWS, Google Cloud, Oracle OCI, Linux/VPS, Nginx, Traefik |
 | Observabilidade | Grafana, Zabbix, Elastic/Kibana, Datadog |
-| Engenharia & GovernanÃ§a | CI/CD, QA, Scrum/XP, documentaÃ§Ã£o tÃ©cnica, COBIT 2019 |
+| Engenharia & Governança | CI/CD, QA, Scrum/XP, documentação técnica, COBIT 2019 |
 
 </details>
 
 ---
 
-## `05 / Mentalidade de ProduÃ§Ã£o`
+## `Mentalidade de Produção`
 
-Antes de trabalhar com automaÃ§Ã£o e agentes, atuei em operaÃ§Ã£o crÃ­tica como **NOC e Analista de Sistemas**, monitorando ambientes de produÃ§Ã£o 24/7 com Zabbix, Elastic, Grafana e Datadog, alÃ©m de Active Directory e resposta a incidentes.
+Antes de trabalhar com automação e agentes, atuei em operação crítica como **NOC e Analista de Sistemas**, monitorando ambientes de produção 24/7 com Zabbix, Elastic, Grafana e Datadog, além de Active Directory e resposta a incidentes.
 
-Essa base continua no cÃ³digo que escrevo hoje: **logs, observabilidade, previsibilidade, diagnÃ³stico e recuperaÃ§Ã£o de falhas entram no desenho da soluÃ§Ã£o, nÃ£o como correÃ§Ã£o posterior.**
+Essa base continua no código que escrevo hoje: **logs, observabilidade, previsibilidade, diagnóstico e recuperação de falhas entram no desenho da solução, não como correção posterior.**
 
 ---
 
 <div align="center">
-  <sub>Engenharia de Software Â· AutomaÃ§Ã£o Â· IntegraÃ§Ãµes Â· IA aplicada a sistemas reais.</sub>
+  <sub>Engenharia de Software · Automação · Integrações · IA aplicada a sistemas reais.</sub>
 </div>

@@ -29,7 +29,14 @@
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/contributions-private.svg?v=3" alt="Atividade de desenvolvimento incluindo repositórios privados disponíveis localmente">
+  <img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/private-stats.svg?v=1" alt="Estatísticas locais de desenvolvimento, incluindo histórico privado disponível nesta máquina">
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/contributions-private.svg?v=4" alt="Grafo de atividade de desenvolvimento incluindo repositórios privados disponíveis localmente">
+  <sub>Grafo gerado do histórico Git local: contabiliza commits de repositórios privados clonados nesta máquina sem expor nomes, conteúdo ou código.</sub>
 </div>
 
 <br/>
@@ -73,7 +80,11 @@ Agentes especializados, MCP, contexto versionado e IA integrada ao ciclo real de
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/stack-animated.svg?v=3" alt="Ecossistema técnico de Max Keller">
+<img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/role-map.svg?v=1" alt="Mapa animado de atuação técnica de Max Keller">
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/stack-animated.svg?v=4" alt="Ecossistema técnico de Max Keller">
 
 ---
 

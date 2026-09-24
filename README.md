@@ -22,10 +22,10 @@
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/heatmap.svg?v=1" alt="Gráfico de contribuições — Max Keller">
+<img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/heatmap.svg?v=2" alt="Gráfico de contribuições — Max Keller">
 
 <div align="center">
-  <sub><strong>Set 2025 → Set 2026</strong> · commits de todos os repositórios públicos e privados · passe o mouse sobre uma célula para ver o total.</sub>
+  <sub>Set 2025 → Set 2026 · commits reais de todos os repositórios públicos e privados</sub>
 </div>
 
 ---
@@ -39,19 +39,19 @@ Atuo como **desenvolvedor Full-Stack com foco em SaaS, automação, APIs e IA ap
 <td width="33%" valign="top">
 
 ### Engenharia de Software
-Back-end, front-end, APIs e arquitetura de aplicações com foco em manutenção, clareza e evolução de produto.
+Back-end, front-end, APIs e arquitetura de aplicações com foco em manutenção, clareza e evolução de produto. Entrego sistemas que sobrevivem ao crescimento.
 
 </td>
 <td width="33%" valign="top">
 
 ### Automação & Integrações
-Fluxos que conectam WhatsApp, APIs de terceiros, bancos de dados, filas, regras de negócio e serviços externos.
+Fluxos que conectam WhatsApp, APIs de terceiros, bancos de dados, filas, regras de negócio e serviços externos. Do gatilho ao efeito sem código descartável.
 
 </td>
 <td width="33%" valign="top">
 
-### IA Aplicada
-Agentes especializados, MCP, contexto versionado e IA integrada ao ciclo real de desenvolvimento.
+### IA Aplicada em Produção
+Agentes especializados, MCP, RAG, contexto versionado e IA integrada ao ciclo real de desenvolvimento e ao produto — não como prova de conceito, mas como feature que fatura.
 
 </td>
 </tr>
@@ -96,7 +96,20 @@ No **Agendaê**, a responsabilidade é dividida por domínio: um agente atua em 
 
 <br/>
 
-Mantenho um vault de pesquisa em IA aplicada ao desenvolvimento com **centenas de fontes primárias distribuídas em 11 eixos**, incluindo RAG, segurança, geração de código, testes, confiabilidade, agentes, dados, fatores humanos, requisitos, contexto e produtividade.
+Mantenho um vault de pesquisa em IA aplicada ao desenvolvimento com **centenas de fontes primárias distribuídas em 11 eixos**: RAG, segurança, geração de código, testes, confiabilidade, agentes, dados, fatores humanos, requisitos, contexto e produtividade.
+
+### Onde estou posicionado para 2026–2027
+
+O mercado caminha para **produtos AI-native**: sistemas onde IA não é plugin, é arquitetura. Estou construindo exatamente isso — SaaS com agentes autônomos, fluxos de automação guiados por LLM, RAG sobre domínio de negócio e contexto versionado que evolui junto com o produto.
+
+| Eixo | O que já aplico em produção |
+|---|---|
+| **Agentes & MCP** | Multi-agente com divisão de domínio, servidor MCP próprio com playbooks e decisões técnicas como ferramentas consultáveis |
+| **RAG em produção** | Pipeline de ingestão, chunking semântico, Qdrant como vector store, re-ranking e context window management |
+| **LLM + produto** | Claude API e OpenAI com streaming, tool use, structured output e function calling integrados a fluxos de negócio reais |
+| **Automação com IA** | n8n + LLM: gatilhos, classificação, roteamento e resposta autônoma via WhatsApp sem intervenção humana |
+| **Context Engineering** | Vault de decisões técnicas, prompts versionados, chain-of-thought estruturado, memória de sessão e memória de longo prazo |
+| **AI-native DevOps** | Agentes de revisão de PR, geração de specs a partir de código, documentação automática e onboarding assistido |
 
 ---
 
@@ -114,11 +127,15 @@ Mantenho um vault de pesquisa em IA aplicada ao desenvolvimento com **centenas d
   <img src="https://img.shields.io/badge/MySQL-140A24?style=flat-square&logo=mysql&logoColor=A855F7">
   <img src="https://img.shields.io/badge/PostgreSQL-140A24?style=flat-square&logo=postgresql&logoColor=C084FC">
   <img src="https://img.shields.io/badge/Redis-140A24?style=flat-square&logo=redis&logoColor=A855F7">
+  <img src="https://img.shields.io/badge/Qdrant-140A24?style=flat-square&logo=qdrant&logoColor=E879F9">
   <img src="https://img.shields.io/badge/Docker-140A24?style=flat-square&logo=docker&logoColor=C084FC">
   <img src="https://img.shields.io/badge/GitHub_Actions-140A24?style=flat-square&logo=githubactions&logoColor=A855F7">
   <img src="https://img.shields.io/badge/AWS-140A24?style=flat-square&logo=amazonwebservices&logoColor=C084FC">
   <img src="https://img.shields.io/badge/n8n-140A24?style=flat-square&logo=n8n&logoColor=E879F9">
   <img src="https://img.shields.io/badge/MCP-140A24?style=flat-square&logoColor=C084FC">
+  <img src="https://img.shields.io/badge/Claude_API-140A24?style=flat-square&logo=anthropic&logoColor=E879F9">
+  <img src="https://img.shields.io/badge/OpenAI-140A24?style=flat-square&logo=openai&logoColor=C084FC">
+  <img src="https://img.shields.io/badge/LangChain-140A24?style=flat-square&logo=langchain&logoColor=A855F7">
 </p>
 
 <details>
@@ -128,14 +145,15 @@ Mantenho um vault de pesquisa em IA aplicada ao desenvolvimento com **centenas d
 
 | Área | Tecnologias / práticas |
 |---|---|
-| Frontend & UX | Next.js 16, React 19, TypeScript, Tailwind CSS v4, Framer Motion, shadcn/ui, Radix UI, Canvas/WebGL, Core Web Vitals |
-| Backend & APIs | Node.js, Java, Spring Boot, PHP 8, Python, APIs REST, JWT, OAuth 2.0 |
-| Dados | MySQL, PostgreSQL, Redis, SQL, RAG + Qdrant |
-| IA aplicada | Claude API, OpenAI API, Vercel AI SDK, LangChain, MCP, agentes especializados, busca semântica |
-| Automação | n8n, WhatsApp Bot/API, Hyperflow, ezchatbot.ai, Evolution/Baileys |
-| Infra & Cloud | Docker, GitHub Actions, AWS, Google Cloud, Oracle OCI, Linux/VPS, Nginx, Traefik |
-| Observabilidade | Grafana, Zabbix, Elastic/Kibana, Datadog |
-| Engenharia & Governança | CI/CD, QA, Scrum/XP, documentação técnica, COBIT 2019 |
+| **Frontend & UX** | Next.js 16, React 19, TypeScript, Tailwind CSS v4, Framer Motion, shadcn/ui, Radix UI, Canvas/WebGL, Core Web Vitals |
+| **Backend & APIs** | Node.js, Java, Spring Boot, PHP 8, Python, APIs REST, JWT, OAuth 2.0, WebSockets, SSE (streaming) |
+| **Dados & Vetores** | MySQL, PostgreSQL, Redis, SQL avançado, RAG pipeline, Qdrant (vector store), embeddings semânticos |
+| **IA & LLMs** | Claude API (Anthropic), OpenAI API, Vercel AI SDK, LangChain, LangGraph, MCP, agentes especializados, tool use, structured output, function calling, busca semântica, fine-tuning básico |
+| **Context Engineering** | Vault MCP, prompt versionado, memória de sessão e longo prazo, chain-of-thought estruturado, RAG com re-ranking |
+| **Automação** | n8n, WhatsApp Bot/API, Hyperflow, ezchatbot.ai, Evolution/Baileys, gatilhos com LLM embutido |
+| **Infra & Cloud** | Docker, GitHub Actions, AWS, Google Cloud, Oracle OCI, Linux/VPS, Nginx, Traefik |
+| **Observabilidade** | Grafana, Zabbix, Elastic/Kibana, Datadog, rastreamento de pipelines de IA |
+| **Engenharia & Governança** | CI/CD, QA, Scrum/XP, documentação técnica, COBIT 2019, revisão assistida por agente |
 
 </details>
 
@@ -145,7 +163,7 @@ Mantenho um vault de pesquisa em IA aplicada ao desenvolvimento com **centenas d
 
 Antes de trabalhar com automação e agentes, atuei em operação crítica como **NOC e Analista de Sistemas**, monitorando ambientes de produção 24/7 com Zabbix, Elastic, Grafana e Datadog, além de Active Directory e resposta a incidentes.
 
-Essa base continua no código que escrevo hoje: **logs, observabilidade, previsibilidade, diagnóstico e recuperação de falhas entram no desenho da solução, não como correção posterior.**
+Essa base continua no código que escrevo hoje: **logs, observabilidade, previsibilidade, diagnóstico e recuperação de falhas entram no desenho da solução, não como correção posterior.** Isso se aplica com ainda mais rigor a pipelines de IA — onde falhas silenciosas, alucinações e deriva de contexto são os novos tipos de bug de produção.
 
 ---
 

@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/dark.svg?v=6">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/light.svg?v=6">
-  <img width="100%" alt="Max Keller — Engenheiro de Software" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/dark.svg?v=6">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/dark.svg?v=7">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/light.svg?v=7">
+  <img width="100%" alt="Max Keller — Engenheiro de Software" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/dark.svg?v=7">
 </picture>
 
 <br/>
@@ -23,37 +23,14 @@
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=MaxKsp&hide_border=true&background=0B0614&stroke=7C3AED&ring=A855F7&fire=E879F9&currStreakLabel=C084FC&sideLabels=BFA9E8&currStreakNum=F5F3FF&sideNums=F5F3FF&dates=8F7AAE&card_width=1180" alt="Sequência de contribuições no GitHub">
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/private-stats.svg?v=1" alt="Estatísticas locais de desenvolvimento, incluindo histórico privado disponível nesta máquina">
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/contributions-private.svg?v=4" alt="Grafo de atividade de desenvolvimento incluindo repositórios privados disponíveis localmente">
-  <sub>Grafo gerado do histórico Git local: contabiliza commits de repositórios privados clonados nesta máquina sem expor nomes, conteúdo ou código.</sub>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaxKsp/MaxKsp/output/github-snake-dark.svg?v=3">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaxKsp/MaxKsp/output/github-snake.svg?v=3">
-    <img width="100%" alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/output/github-snake-dark.svg?v=3">
-  </picture>
+  <sub><strong>Atividade no GitHub:</strong> o gráfico nativo exibido no perfil é a referência oficial para contribuições, incluindo as privadas habilitadas na conta.</sub>
 </div>
 
 ---
 
 ## `01 / Perfil Técnico`
 
-Construo software de ponta a ponta, conectando **produto, APIs, automação, dados e IA aplicada**. Minha base em operação de produção influencia a arquitetura desde o início: observabilidade, tratamento de falhas, rastreabilidade e capacidade de evolução fazem parte da solução.
+Atuo como **desenvolvedor Full-Stack com foco em SaaS, automação, APIs e IA aplicada**. Construo desde interfaces modernas e sistemas web completos até integrações, agentes, RAG e automações em produção. Como fundador do **Agendaê**, trabalho com produto multi-tenant, arquitetura, operação e evolução contínua — com a mentalidade de observabilidade e confiabilidade que veio da experiência em NOC 24/7.
 
 <table>
 <tr>
@@ -80,17 +57,17 @@ Agentes especializados, MCP, contexto versionado e IA integrada ao ciclo real de
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/role-map.svg?v=1" alt="Mapa animado de atuação técnica de Max Keller">
+<img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/role-map.svg?v=2" alt="Mapa animado de atuação técnica de Max Keller">
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/stack-animated.svg?v=4" alt="Ecossistema técnico de Max Keller">
+<img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/stack-animated.svg?v=5" alt="Ecossistema técnico de Max Keller">
 
 ---
 
 ## `02 / Projetos em Destaque`
 
-<img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/projects-animated.svg?v=3" alt="Projetos em destaque">
+<img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/projects-animated.svg?v=4" alt="Projetos em destaque">
 
 <details>
 <summary><strong>Detalhes dos projetos</strong></summary>
@@ -99,7 +76,7 @@ Agentes especializados, MCP, contexto versionado e IA integrada ao ciclo real de
 | Projeto | O que resolve | Stack |
 |---|---|---|
 | [level-os](https://github.com/MaxKsp/level-os) | Sistema pessoal para finanças, rotina, treinos, alimentação, progresso e agentes de IA | React 19 · TypeScript · PHP 8 · MySQL |
-| Agenda Aê | SaaS multi-tenant de agendamento para barbearias, salões e serviços, com motor próprio de automação via WhatsApp | Next.js 16 · React 19 · TypeScript · MySQL · Docker |
+| Agendaê | SaaS multi-tenant de agendamento para barbearias, salões e serviços, com motor próprio de automação via WhatsApp | Next.js 16 · React 19 · TypeScript · MySQL · Docker |
 | [cycle-motors-erp](https://github.com/MaxKsp/cycle-motors-erp) | ERP para oficinas de motos com portal do cliente, ordem de serviço e aprovação de orçamento | Java 21 · Spring Boot · React |
 | Vault MCP | Servidor MCP próprio que expõe decisões técnicas, pesquisa e playbooks como contexto consultável por agentes | MCP · RAG · Context Engineering · Agent Tooling |
 
@@ -109,11 +86,11 @@ Agentes especializados, MCP, contexto versionado e IA integrada ao ciclo real de
 
 ## `03 / Engenharia com IA`
 
-No **Agenda Aê**, a responsabilidade é dividida por domínio: um agente atua em back-end, schema e motor de automação; outro atua em UI e design system. Mudanças maiores começam como especificação escrita, avançam em fases e passam por revisão antes do merge.
+No **Agendaê**, a responsabilidade é dividida por domínio: um agente atua em back-end, schema e motor de automação; outro atua em UI e design system. Mudanças maiores começam como especificação escrita, avançam em fases e passam por revisão antes do merge.
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/ai-pipeline.svg?v=3" alt="Pipeline de engenharia com IA">
+<img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/ai-pipeline.svg?v=4" alt="Pipeline de engenharia com IA">
 
 <br/>
 
@@ -131,8 +108,13 @@ Mantenho um vault de pesquisa em IA aplicada ao desenvolvimento com **189 fontes
   <img src="https://img.shields.io/badge/Next.js-140A24?style=flat-square&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Python-140A24?style=flat-square&logo=python&logoColor=C084FC">
   <img src="https://img.shields.io/badge/PHP-140A24?style=flat-square&logo=php&logoColor=A855F7">
-  <img src="https://img.shields.io/badge/MySQL-140A24?style=flat-square&logo=mysql&logoColor=C084FC">
-  <img src="https://img.shields.io/badge/Docker-140A24?style=flat-square&logo=docker&logoColor=A855F7">
+  <img src="https://img.shields.io/badge/Node.js-140A24?style=flat-square&logo=nodedotjs&logoColor=C084FC">
+  <img src="https://img.shields.io/badge/MySQL-140A24?style=flat-square&logo=mysql&logoColor=A855F7">
+  <img src="https://img.shields.io/badge/PostgreSQL-140A24?style=flat-square&logo=postgresql&logoColor=C084FC">
+  <img src="https://img.shields.io/badge/Redis-140A24?style=flat-square&logo=redis&logoColor=A855F7">
+  <img src="https://img.shields.io/badge/Docker-140A24?style=flat-square&logo=docker&logoColor=C084FC">
+  <img src="https://img.shields.io/badge/GitHub_Actions-140A24?style=flat-square&logo=githubactions&logoColor=A855F7">
+  <img src="https://img.shields.io/badge/AWS-140A24?style=flat-square&logo=amazonwebservices&logoColor=C084FC">
   <img src="https://img.shields.io/badge/n8n-140A24?style=flat-square&logo=n8n&logoColor=E879F9">
   <img src="https://img.shields.io/badge/MCP-140A24?style=flat-square&logoColor=C084FC">
 </p>
@@ -144,14 +126,14 @@ Mantenho um vault de pesquisa em IA aplicada ao desenvolvimento com **189 fontes
 
 | Área | Tecnologias / práticas |
 |---|---|
-| Backend & Dados | Java, Spring Boot, REST APIs, Spring Data JPA, Python, PHP, SQL, MySQL |
-| Frontend | React, TypeScript, Next.js |
-| Automação & Integrações | n8n, Hyperflow, ezchatbot.ai, WhatsApp API, Evolution/Baileys |
-| IA aplicada | Claude Code, Codex, Cursor, Kiro, MCP, agentes especializados |
-| Infra & Redes | Docker, Traefik, VLANs, DNS, IPv6, Active Directory, VPN |
-| Observabilidade | Zabbix, Elastic/Kibana, Grafana, Datadog |
-| Engenharia | Microsserviços, CI/CD, QA, Scrum/XP, documentação técnica |
-| Governança | COBIT 2019, gestão de projetos e mudanças |
+| Frontend & UX | Next.js 16, React 19, TypeScript, Tailwind CSS v4, Framer Motion, shadcn/ui, Radix UI, Canvas/WebGL, Core Web Vitals |
+| Backend & APIs | Node.js, Java, Spring Boot, PHP 8, Python, APIs REST, JWT, OAuth 2.0 |
+| Dados | MySQL, PostgreSQL, Redis, SQL, RAG + Qdrant |
+| IA aplicada | Claude API, OpenAI API, Vercel AI SDK, LangChain, MCP, agentes especializados, busca semântica |
+| Automação | n8n, WhatsApp Bot/API, Hyperflow, ezchatbot.ai, Evolution/Baileys |
+| Infra & Cloud | Docker, GitHub Actions, AWS, Google Cloud, Oracle OCI, Linux/VPS, Nginx, Traefik |
+| Observabilidade | Grafana, Zabbix, Elastic/Kibana, Datadog |
+| Engenharia & Governança | CI/CD, QA, Scrum/XP, documentação técnica, COBIT 2019 |
 
 </details>
 

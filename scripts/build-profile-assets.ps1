@@ -1,3 +1,33 @@
+$ErrorActionPreference='Stop'
+$repo='C:\Users\TEMP.EZSOFT.002\workplace\MaxKsp'
+$role=@'
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="410" viewBox="0 0 1180 410">
+<defs><radialGradient id="core"><stop stop-color="#A855F7"/><stop offset=".72" stop-color="#6D28D9"/><stop offset="1" stop-color="#4C1D95"/></radialGradient><filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1180" height="410" rx="24" fill="#0B0614"/><rect x="18" y="18" width="1144" height="374" rx="18" fill="#140A24" stroke="#3B1B58"/>
+<text x="48" y="58" fill="#A855F7" font-family="JetBrains Mono,Consolas,monospace" font-size="14" font-weight="700">MAPA.DE.ATUA&#199;&#195;O</text>
+<text x="1130" y="58" text-anchor="end" fill="#8F7AAE" font-family="monospace" font-size="12">Engenharia de Software &#183; Founder Agenda&#234; &#183; Brasil</text>
+<g stroke="#6D28D9" stroke-opacity=".32" stroke-width="1.4" fill="none"><path d="M590 210C480 170 370 120 215 110"/><path d="M590 210C450 250 330 302 210 315"/><path d="M590 210C540 130 515 105 430 100"/><path d="M590 210C640 130 665 105 750 100"/><path d="M590 210C730 160 850 112 970 110"/><path d="M590 210C730 255 850 300 970 315"/></g>
+<g stroke="#C084FC" stroke-width="2" stroke-dasharray="7 13" fill="none">
+<path d="M590 210C480 170 370 120 215 110"><animate attributeName="stroke-dashoffset" values="0;-40" dur="5.4s" repeatCount="indefinite"/></path>
+<path d="M590 210C450 250 330 302 210 315"><animate attributeName="stroke-dashoffset" values="0;-40" dur="6.2s" repeatCount="indefinite"/></path>
+<path d="M590 210C540 130 515 105 430 100"><animate attributeName="stroke-dashoffset" values="0;-40" dur="5.8s" repeatCount="indefinite"/></path>
+<path d="M590 210C640 130 665 105 750 100"><animate attributeName="stroke-dashoffset" values="0;-40" dur="6.6s" repeatCount="indefinite"/></path>
+<path d="M590 210C730 160 850 112 970 110"><animate attributeName="stroke-dashoffset" values="0;-40" dur="7.1s" repeatCount="indefinite"/></path>
+<path d="M590 210C730 255 850 300 970 315"><animate attributeName="stroke-dashoffset" values="0;-40" dur="7.7s" repeatCount="indefinite"/></path>
+</g><g font-family="JetBrains Mono,Consolas,monospace" text-anchor="middle">
+<g transform="translate(590 210)"><circle r="72" fill="url(#core)" filter="url(#glow)"><animate attributeName="r" values="69;75;69" dur="5s" calcMode="spline" keySplines=".4 0 .2 1;.4 0 .2 1" repeatCount="indefinite"/></circle><circle r="89" fill="none" stroke="#A855F7" stroke-opacity=".26" stroke-dasharray="4 11"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/></circle><text y="-10" fill="#F5F3FF" font-size="18" font-weight="700">MAX KELLER</text><text y="15" fill="#E9D5FF" font-size="11">Full-Stack &amp; IA</text><text y="36" fill="#D8B4FE" font-size="10">produto + automa&#231;&#227;o</text></g>
+<g transform="translate(215 110)"><circle r="52" fill="#1A0E2B" stroke="#7C3AED"/><text y="-4" fill="#F5F3FF" font-size="12">SaaS</text><text y="14" fill="#BFA9E8" font-size="9">multi-tenant</text></g>
+<g transform="translate(210 315)"><circle r="52" fill="#1A0E2B" stroke="#A855F7"/><text y="-4" fill="#F5F3FF" font-size="12">INTERFACES</text><text y="14" fill="#BFA9E8" font-size="9">React / Next.js</text></g>
+<g transform="translate(430 100)"><circle r="52" fill="#1A0E2B" stroke="#C084FC"/><text y="-4" fill="#F5F3FF" font-size="12">APIs</text><text y="14" fill="#BFA9E8" font-size="9">integra&#231;&#245;es</text></g>
+<g transform="translate(750 100)"><circle r="52" fill="#1A0E2B" stroke="#C084FC"/><text y="-4" fill="#F5F3FF" font-size="12">IA / RAG</text><text y="14" fill="#BFA9E8" font-size="9">MCP / agentes</text></g>
+<g transform="translate(970 110)"><circle r="52" fill="#1A0E2B" stroke="#A855F7"/><text y="-4" fill="#F5F3FF" font-size="12">AUTOMA&#199;&#195;O</text><text y="14" fill="#BFA9E8" font-size="9">WhatsApp / n8n</text></g>
+<g transform="translate(970 315)"><circle r="52" fill="#1A0E2B" stroke="#E879F9"/><text y="-4" fill="#F5F3FF" font-size="12">OPERA&#199;&#195;O</text><text y="14" fill="#BFA9E8" font-size="9">cloud / observabilidade</text></g>
+</g>
+<g fill="#E879F9" filter="url(#glow)"><circle r="4"><animateMotion dur="7.5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines=".4 0 .2 1" path="M590 210C480 170 370 120 215 110"/></circle><circle r="4"><animateMotion dur="8.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines=".4 0 .2 1" path="M590 210C640 130 665 105 750 100"/></circle><circle r="4"><animateMotion dur="9.2s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines=".4 0 .2 1" path="M590 210C730 255 850 300 970 315"/></circle></g>
+<text x="48" y="372" fill="#765495" font-family="monospace" font-size="10">descoberta &#8594; design &amp; arquitetura &#8594; desenvolvimento &#8594; deploy &#8594; suporte &amp; evolu&#231;&#227;o</text>
+</svg>
+'@
+$stack=@'
 <svg xmlns="http://www.w3.org/2000/svg" width="1180" height="540" viewBox="0 0 1180 540">
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B0614"/><stop offset="1" stop-color="#160B25"/></linearGradient><linearGradient id="accent" x1="0" x2="1"><stop stop-color="#7C3AED"/><stop offset=".5" stop-color="#A855F7"/><stop offset="1" stop-color="#E879F9"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
 <rect width="1180" height="540" rx="24" fill="url(#bg)"/><rect x="18" y="18" width="1144" height="504" rx="18" fill="#140A24" stroke="#3B1B58"><animate attributeName="stroke" values="#3B1B58;#7C3AED;#3B1B58" dur="8s" calcMode="spline" keySplines=".4 0 .2 1;.4 0 .2 1" repeatCount="indefinite"/></rect>
@@ -11,3 +41,7 @@
 <circle r="5" fill="#E879F9" filter="url(#glow)"><animateMotion dur="9s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines=".4 0 .2 1" path="M90 500 C300 468 430 524 590 500 S880 468 1090 500"/></circle>
 <text x="48" y="520" fill="#765495" font-family="monospace" font-size="10">produto &#8594; arquitetura &#8594; c&#243;digo &#8594; integra&#231;&#227;o &#8594; deploy &#8594; observabilidade</text>
 </svg>
+'@
+[IO.File]::WriteAllText("$repo\assets\role-map.svg",$role,[Text.UTF8Encoding]::new($false))
+[IO.File]::WriteAllText("$repo\assets\stack-animated.svg",$stack,[Text.UTF8Encoding]::new($false))
+Write-Output 'profile assets generated'

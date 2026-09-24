@@ -22,10 +22,10 @@
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/deploy-graph.svg?v=1" alt="Grafo de deploys â€” Max Keller">
+<img width="100%" src="https://raw.githubusercontent.com/MaxKsp/MaxKsp/main/assets/contrib-graph.svg?v=1" alt="GrÃ¡fico de contribuiÃ§Ãµes â€” Max Keller">
 
 <div align="center">
-  <sub><strong>Atividade recente:</strong> commits por repositÃ³rio nos Ãºltimos meses Â· privados incluÃ­dos Â· grÃ¡fico nativo do perfil Ã© a referÃªncia oficial.</sub>
+  <sub><strong>Set 2025 â†’ Set 2026</strong> Â· commits de todos os repositÃ³rios pÃºblicos e privados Â· privados habilitados na conta.</sub>
 </div>
 
 ---
